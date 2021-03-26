@@ -16,19 +16,19 @@
 }
 
 .infected {
-  background: #3498db ;
+  background: #3498db;
   color: white;
   text-align: left;
 }
 
 .recovered {
-  background : #27ae60;
+  background: #27ae60;
   color: white;
   text-align: left;
 }
 
 .deaths {
-  background: #e74c3c ;
+  background: #e74c3c;
   color: white;
   text-align: left;
 }
